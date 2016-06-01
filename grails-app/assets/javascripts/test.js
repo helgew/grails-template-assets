@@ -1,0 +1,1 @@
+$(document).ready(function() { alert("Can you hear me now?"); });
